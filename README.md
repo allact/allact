@@ -43,6 +43,6 @@ Former SDR and educator with a natural talent for breaking down complex informat
 
 ---
 
-📫 **Let’s connect:**  
-- 📧 Email: [1allenclare@gmail.com](mailto:1allenclare@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/1allenclare](https://www.linkedin.com/in/1allenclare/)
+📫 **Projects:**  
+- 📧 [Project Page Link:](https://github.com/allact/Data_projects_TripleTen)  
+
